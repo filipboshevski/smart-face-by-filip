@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/smart-face-by-filip/static/css/main.067f5347.chunk.css",
+    "main.css": "/smart-face-by-filip/static/css/main.6c5dd89b.chunk.css",
     "main.js": "/smart-face-by-filip/static/js/main.2c7e2b63.chunk.js",
     "main.js.map": "/smart-face-by-filip/static/js/main.2c7e2b63.chunk.js.map",
     "runtime-main.js": "/smart-face-by-filip/static/js/runtime-main.51478622.js",
@@ -9,10 +9,10 @@
     "static/js/2.8612a597.chunk.js": "/smart-face-by-filip/static/js/2.8612a597.chunk.js",
     "static/js/2.8612a597.chunk.js.map": "/smart-face-by-filip/static/js/2.8612a597.chunk.js.map",
     "index.html": "/smart-face-by-filip/index.html",
-    "precache-manifest.8cd22d46118d63f22ea0360ce958f394.js": "/smart-face-by-filip/precache-manifest.8cd22d46118d63f22ea0360ce958f394.js",
+    "precache-manifest.9dba5d7a09aeb4bbdebf3adc806a3752.js": "/smart-face-by-filip/precache-manifest.9dba5d7a09aeb4bbdebf3adc806a3752.js",
     "service-worker.js": "/smart-face-by-filip/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/smart-face-by-filip/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.067f5347.chunk.css.map": "/smart-face-by-filip/static/css/main.067f5347.chunk.css.map",
+    "static/css/main.6c5dd89b.chunk.css.map": "/smart-face-by-filip/static/css/main.6c5dd89b.chunk.css.map",
     "static/js/2.8612a597.chunk.js.LICENSE.txt": "/smart-face-by-filip/static/js/2.8612a597.chunk.js.LICENSE.txt",
     "static/media/Navigation.css": "/smart-face-by-filip/static/media/All The Roll - Personal Use.c555da56.otf",
     "static/media/brain.png": "/smart-face-by-filip/static/media/brain.0dd2024b.png"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.51478622.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.8612a597.chunk.js",
-    "static/css/main.067f5347.chunk.css",
+    "static/css/main.6c5dd89b.chunk.css",
     "static/js/main.2c7e2b63.chunk.js"
   ]
 }
