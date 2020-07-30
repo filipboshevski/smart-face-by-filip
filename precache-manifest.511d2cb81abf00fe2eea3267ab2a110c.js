@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a08531168e1f701bb8d4a4eb92bf0c81",
+    "revision": "f09d298c1f3c2ae84ae16b37069a283e",
     "url": "/smart-face-by-filip/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/smart-face-by-filip/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "07e0597e00fdb66ac9c1",
-    "url": "/smart-face-by-filip/static/css/main.85f5fd4f.chunk.css"
+    "revision": "ff05fd1fddf5165f9336",
+    "url": "/smart-face-by-filip/static/css/main.8b6109c1.chunk.css"
   },
   {
     "revision": "fc0254bc72366ee0a242",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/smart-face-by-filip/static/js/2.dd5406bf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "07e0597e00fdb66ac9c1",
+    "revision": "ff05fd1fddf5165f9336",
     "url": "/smart-face-by-filip/static/js/main.1bc49ec5.chunk.js"
   },
   {
