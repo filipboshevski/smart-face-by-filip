@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/smart-face-by-filip/precache-manifest.511d2cb81abf00fe2eea3267ab2a110c.js"
+  "/smart-face-by-filip/precache-manifest.8cd22d46118d63f22ea0360ce958f394.js"
 );
 
 self.addEventListener('message', (event) => {

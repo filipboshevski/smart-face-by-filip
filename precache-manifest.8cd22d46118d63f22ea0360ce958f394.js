@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f09d298c1f3c2ae84ae16b37069a283e",
+    "revision": "1393be196c8a119ef48fbf74c6f3f74b",
     "url": "/smart-face-by-filip/index.html"
   },
   {
-    "revision": "fc0254bc72366ee0a242",
+    "revision": "08bae871eb88416dd323",
     "url": "/smart-face-by-filip/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "ff05fd1fddf5165f9336",
-    "url": "/smart-face-by-filip/static/css/main.8b6109c1.chunk.css"
+    "revision": "bae2644afdb701d02ccb",
+    "url": "/smart-face-by-filip/static/css/main.067f5347.chunk.css"
   },
   {
-    "revision": "fc0254bc72366ee0a242",
-    "url": "/smart-face-by-filip/static/js/2.dd5406bf.chunk.js"
+    "revision": "08bae871eb88416dd323",
+    "url": "/smart-face-by-filip/static/js/2.8612a597.chunk.js"
   },
   {
     "revision": "c97fb91e7dd1c7b19ae67fb152a2e6b2",
-    "url": "/smart-face-by-filip/static/js/2.dd5406bf.chunk.js.LICENSE.txt"
+    "url": "/smart-face-by-filip/static/js/2.8612a597.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ff05fd1fddf5165f9336",
-    "url": "/smart-face-by-filip/static/js/main.1bc49ec5.chunk.js"
+    "revision": "bae2644afdb701d02ccb",
+    "url": "/smart-face-by-filip/static/js/main.2c7e2b63.chunk.js"
   },
   {
     "revision": "10dffe5221697d7ea45f",
